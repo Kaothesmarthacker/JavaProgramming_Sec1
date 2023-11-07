@@ -1,0 +1,5 @@
+Student_id : 2313110815
+Student_name : Nattawut Wongnimit
+Major : IT
+Level : 1
+Faculty : information technology
